@@ -1,0 +1,29 @@
+{
+  "tags": [
+    "openqa-source-screen"
+  ],
+  "area": [
+    {
+      "width": 85,
+      "xpos": 440,
+      "ypos": 344,
+      "type": "match",
+      "height": 15
+    },
+    {
+      "width": 18,
+      "ypos": 413,
+      "height": 34,
+      "type": "match",
+      "xpos": 227
+    },
+    {
+      "height": 16,
+      "type": "match",
+      "ypos": 184,
+      "xpos": 131,
+      "width": 80
+    }
+  ],
+  "properties": []
+}

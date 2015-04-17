@@ -1,0 +1,36 @@
+{
+  "area": [
+    {
+      "ypos": 345,
+      "height": 11,
+      "type": "match",
+      "xpos": 327,
+      "width": 96
+    },
+    {
+      "ypos": 257,
+      "type": "match",
+      "height": 33,
+      "xpos": 84,
+      "width": 67
+    },
+    {
+      "width": 79,
+      "type": "match",
+      "height": 15,
+      "ypos": 397,
+      "xpos": 367
+    },
+    {
+      "xpos": 688,
+      "height": 39,
+      "type": "match",
+      "ypos": 376,
+      "width": 63
+    }
+  ],
+  "tags": [
+    "openqa-needle-editor-screen"
+  ],
+  "properties": []
+}
