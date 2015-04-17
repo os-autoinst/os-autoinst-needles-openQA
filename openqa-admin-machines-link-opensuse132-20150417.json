@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "openqa-admin-machines-link"
+  ],
+  "area": [
+    {
+      "xpos": 52,
+      "ypos": 303,
+      "width": 57,
+      "height": 11,
+      "type": "match"
+    }
+  ]
+}

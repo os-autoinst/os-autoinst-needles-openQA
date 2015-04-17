@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 168,
+      "ypos": 228,
+      "width": 114,
+      "height": 20,
+      "type": "match"
+    },
+    {
+      "xpos": 535,
+      "ypos": 306,
+      "width": 56,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "openqa-admin-jobgroup",
+    "ENV-INSTLANG-en_US"
+  ],
+  "properties": []
+}

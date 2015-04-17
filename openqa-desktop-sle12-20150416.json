@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "openqa-desktop"
+  ],
+  "area": [
+    {
+      "xpos": 33,
+      "ypos": 19,
+      "width": 110,
+      "height": 82,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 53,
+      "ypos": 361,
+      "width": 40,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "openqa-admin-assets-link"
+  ],
+  "properties": []
+}

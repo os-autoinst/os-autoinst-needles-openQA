@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "openqa-admin-testsuite"
+  ],
+  "area": [
+    {
+      "xpos": 166,
+      "ypos": 232,
+      "width": 124,
+      "height": 23,
+      "type": "match"
+    },
+    {
+      "xpos": 199,
+      "ypos": 312,
+      "width": 49,
+      "height": 14,
+      "type": "match"
+    }
+  ]
+}

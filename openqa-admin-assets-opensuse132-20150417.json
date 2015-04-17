@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "openqa-admin-assets"
+  ],
+  "area": [
+    {
+      "xpos": 167,
+      "ypos": 227,
+      "width": 69,
+      "height": 19,
+      "type": "match"
+    },
+    {
+      "xpos": 199,
+      "ypos": 306,
+      "width": 43,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

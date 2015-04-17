@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 167,
+      "ypos": 233,
+      "width": 163,
+      "height": 22,
+      "type": "match"
+    },
+    {
+      "xpos": 185,
+      "ypos": 313,
+      "width": 46,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "openqa-admin-medium"
+  ],
+  "properties": []
+}

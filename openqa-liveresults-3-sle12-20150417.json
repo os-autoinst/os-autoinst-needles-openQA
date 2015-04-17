@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "xpos": 221,
+      "ypos": 599,
+      "width": 220,
+      "height": 18,
+      "type": "match"
+    },
+    {
+      "xpos": 50,
+      "ypos": 601,
+      "width": 28,
+      "height": 15,
+      "type": "match"
+    },
+    {
+      "xpos": 429,
+      "ypos": 467,
+      "width": 65,
+      "height": 20,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "openqa-liveresults-3"
+  ],
+  "properties": []
+}

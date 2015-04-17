@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "openqa-needle-editor"
+  ],
+  "area": [
+    {
+      "xpos": 312,
+      "ypos": 320,
+      "width": 77,
+      "height": 15,
+      "type": "match"
+    }
+  ]
+}

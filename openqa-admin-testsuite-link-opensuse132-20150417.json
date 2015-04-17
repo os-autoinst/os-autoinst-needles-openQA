@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "openqa-admin-testsuite-link"
+  ],
+  "area": [
+    {
+      "width": 63,
+      "ypos": 320,
+      "height": 17,
+      "type": "match",
+      "xpos": 51
+    }
+  ],
+  "properties": []
+}

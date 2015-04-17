@@ -1,0 +1,32 @@
+{
+  "tags": [
+    "openqa-liveresults-3",
+    "ENV-DISTRI-openqa",
+    "ENV-INSTLANG-en_US",
+    "ENV-FLAVOR-NET"
+  ],
+  "area": [
+    {
+      "xpos": 56,
+      "ypos": 637,
+      "width": 30,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "xpos": 249,
+      "ypos": 638,
+      "width": 195,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "xpos": 430,
+      "ypos": 509,
+      "width": 60,
+      "height": 22,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

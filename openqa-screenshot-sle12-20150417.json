@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 235,
+      "ypos": 344,
+      "width": 77,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "openqa-screenshot"
+  ],
+  "properties": []
+}

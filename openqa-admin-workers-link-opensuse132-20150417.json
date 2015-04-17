@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 51,
+      "ypos": 377,
+      "width": 52,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "openqa-admin-workers-link"
+  ]
+}

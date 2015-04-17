@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "openqa-admin-machines"
+  ],
+  "area": [
+    {
+      "xpos": 171,
+      "ypos": 234,
+      "width": 102,
+      "height": 21,
+      "type": "match"
+    },
+    {
+      "xpos": 175,
+      "ypos": 315,
+      "width": 52,
+      "height": 11,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

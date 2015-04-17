@@ -1,0 +1,29 @@
+{
+  "tags": [
+    "openqa-dashboard"
+  ],
+  "area": [
+    {
+      "xpos": 71,
+      "ypos": 186,
+      "width": 58,
+      "height": 15,
+      "type": "match"
+    },
+    {
+      "xpos": 39,
+      "ypos": 623,
+      "width": 76,
+      "height": 28,
+      "type": "match"
+    },
+    {
+      "xpos": 640,
+      "ypos": 615,
+      "width": 69,
+      "height": 24,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

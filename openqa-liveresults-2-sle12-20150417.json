@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 236,
+      "ypos": 433,
+      "width": 70,
+      "height": 11,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "openqa-liveresults-2"
+  ],
+  "properties": []
+}

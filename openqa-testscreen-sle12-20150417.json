@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "openqa-testscreen"
+  ],
+  "area": [
+    {
+      "width": 152,
+      "xpos": 132,
+      "ypos": 472,
+      "height": 34,
+      "type": "match"
+    },
+    {
+      "xpos": 79,
+      "ypos": 426,
+      "type": "match",
+      "height": 20,
+      "width": 58
+    }
+  ]
+}

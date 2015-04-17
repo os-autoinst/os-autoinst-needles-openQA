@@ -1,0 +1,29 @@
+{
+  "tags": [
+    "openqa-admin-workers"
+  ],
+  "area": [
+    {
+      "xpos": 169,
+      "ypos": 230,
+      "width": 96,
+      "height": 28,
+      "type": "match"
+    },
+    {
+      "xpos": 199,
+      "ypos": 311,
+      "width": 62,
+      "height": 16,
+      "type": "match"
+    },
+    {
+      "xpos": 653,
+      "ypos": 338,
+      "width": 45,
+      "height": 16,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
