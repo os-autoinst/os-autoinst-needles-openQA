@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 341,
+      "ypos": 335,
+      "height": 63,
+      "width": 329,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "openqa-desktop",
+    "openqa-desktop-login"
+  ]
+}
