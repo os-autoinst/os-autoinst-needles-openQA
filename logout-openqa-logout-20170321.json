@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "openqa-logout"
+  ],
+  "area": [
+    {
+      "xpos": 847,
+      "ypos": 586,
+      "width": 46,
+      "height": 14,
+      "type": "match"
+    }
+  ]
+}
