@@ -10,7 +10,9 @@
     }
   ],
   "tags": [
+    "generic-desktop",
     "openqa-desktop",
-    "openqa-desktop-locked"
+    "openqa-desktop-locked",
+    "screenlock"
   ]
 }

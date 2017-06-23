@@ -2,7 +2,8 @@
   "properties": [],
   "tags": [
     "ENV-VERSION-Tumbleweed",
-    "openqa-desktop"
+    "openqa-desktop",
+    "generic-desktop"
   ],
   "area": [
     {
