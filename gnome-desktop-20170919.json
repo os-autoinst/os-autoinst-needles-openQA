@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-VERSION-Tumbleweed",
+    "openqa-desktop",
+    "generic-desktop"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 110,
+      "xpos": 0,
+      "ypos": 0,
+      "height": 87
+    }
+  ]
+}
