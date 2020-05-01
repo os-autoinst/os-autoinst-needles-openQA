@@ -1,0 +1,28 @@
+{
+  "area": [
+    {
+      "width": 21,
+      "height": 57,
+      "ypos": 323,
+      "type": "match",
+      "xpos": 500,
+      "match": 80
+    },
+    {
+      "xpos": 417,
+      "ypos": 526,
+      "width": 188,
+      "height": 16,
+      "type": "match",
+      "match": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-Tumbleweed",
+    "generic-desktop",
+    "openqa-desktop",
+    "openqa-desktop-locked",
+    "screenlock"
+  ]
+}
