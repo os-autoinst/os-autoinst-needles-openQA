@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "height": 52,
+      "type": "match",
+      "ypos": 126,
+      "width": 235,
+      "xpos": 602,
+      "match": 92
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "openqa-search-results",
+    "openqa-search-results-shutdown"
+  ]
+}
