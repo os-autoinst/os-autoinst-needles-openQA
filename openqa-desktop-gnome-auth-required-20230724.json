@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 379,
+      "ypos": 514,
+      "type": "match",
+      "height": 17,
+      "width": 215,
+      "match": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-Tumbleweed",
+    "generic-desktop",
+    "openqa-desktop",
+    "openqa-desktop-gnome-auth-required"
+  ]
+}
