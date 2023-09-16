@@ -12,6 +12,8 @@
   "properties": [],
   "tags": [
     "ENV-VERSION-Tumbleweed",
+    "generic-desktop",
+    "openqa-desktop",
     "openqa-desktop-gnome-auth-required"
   ]
 }
