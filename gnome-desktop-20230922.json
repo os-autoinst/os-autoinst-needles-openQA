@@ -1,0 +1,27 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 0,
+      "match": 80,
+      "xpos": 0,
+      "height": 35,
+      "width": 100
+    },
+    {
+      "match": 80,
+      "ypos": 59,
+      "type": "match",
+      "width": 92,
+      "height": 10,
+      "xpos": 373
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-Tumbleweed",
+    "generic-desktop",
+    "gnome-activities",
+    "openqa-desktop"
+  ]
+}
