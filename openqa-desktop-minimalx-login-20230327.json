@@ -19,6 +19,7 @@
   "properties": [],
   "tags": [
     "ENV-VERSION-Tumbleweed",
+    "lockscreen-password-prompt",
     "openqa-desktop",
     "openqa-desktop-login",
     "screenlock"
