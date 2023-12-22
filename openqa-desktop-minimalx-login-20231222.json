@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 43,
+      "ypos": 436,
+      "xpos": 609,
+      "height": 22
+    },
+    {
+      "type": "match",
+      "width": 32,
+      "ypos": 347,
+      "xpos": 478,
+      "height": 46
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-Tumbleweed",
+    "lockscreen-password-prompt",
+    "openqa-desktop",
+    "openqa-desktop-login",
+    "screenlock"
+  ]
+}
