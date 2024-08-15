@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 311,
+      "ypos": 354,
+      "width": 209,
+      "height": 59,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "check-autoyast-profile-ok"
+  ]
+}
