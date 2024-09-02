@@ -5,7 +5,8 @@
       "ypos": 424,
       "width": 204,
       "height": 84,
-      "type": "match"
+      "type": "match",
+      "match": 80
     }
   ],
   "properties": [],
