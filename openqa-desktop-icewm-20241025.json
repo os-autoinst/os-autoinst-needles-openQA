@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "width": 661,
+      "xpos": 162,
+      "height": 751,
+      "type": "match",
+      "ypos": 8
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-Tumbleweed",
+    "generic-desktop",
+    "icewm",
+    "openqa-desktop"
+  ]
+}
