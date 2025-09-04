@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 166,
+      "xpos": 87,
+      "type": "match",
+      "height": 172,
+      "width": 680
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-Tumbleweed",
+    "boot-menu"
+  ]
+}
