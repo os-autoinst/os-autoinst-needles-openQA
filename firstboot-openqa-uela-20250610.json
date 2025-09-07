@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 62,
+      "ypos": 49,
+      "width": 216,
+      "height": 18,
+      "type": "match"
+    },
+    {
+      "xpos": 341,
+      "ypos": 511,
+      "width": 72,
+      "height": 16,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firstboot_licence"
+  ]
+}
