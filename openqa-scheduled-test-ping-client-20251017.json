@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 15,
+      "type": "match",
+      "width": 74,
+      "xpos": 572,
+      "ypos": 91
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "openqa-scheduled-test-ping-client"
+  ]
+}
