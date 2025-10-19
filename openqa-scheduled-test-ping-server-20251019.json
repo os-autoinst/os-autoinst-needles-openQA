@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "match": 70,
+      "ypos": 583,
+      "type": "match",
+      "height": 12,
+      "width": 73,
+      "xpos": 574
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "openqa-scheduled-test"
+  ]
+}
