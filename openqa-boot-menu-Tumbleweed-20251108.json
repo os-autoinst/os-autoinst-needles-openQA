@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "xpos": 34,
+      "height": 28,
+      "type": "match",
+      "width": 162,
+      "ypos": 15,
+      "match": 80
+    },
+    {
+      "xpos": 98,
+      "ypos": 223,
+      "width": 141,
+      "height": 10,
+      "type": "match",
+      "match": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-Tumbleweed",
+    "boot-menu"
+  ]
+}
