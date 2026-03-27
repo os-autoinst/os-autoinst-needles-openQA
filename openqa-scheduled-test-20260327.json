@@ -3,24 +3,20 @@
     {
       "width": 152,
       "height": 51,
-      "ypos": 97,
-      "type": "match",
-      "xpos": 436
+      "xpos": 436,
+      "ypos": 268,
+      "type": "match"
     },
     {
-      "ypos": 319,
-      "height": 51,
       "type": "match",
       "xpos": 433,
-      "width": 156,
-      "click_point": {"xpos": -60, "ypos": 25}
-    },
-    {
-      "type": "exclude",
-      "xpos": 473,
-      "ypos": 617,
-      "height": 15,
-      "width": 123
+      "ypos": 490,
+      "click_point": {
+        "xpos": -60,
+        "ypos": 25
+      },
+      "height": 51,
+      "width": 156
     }
   ],
   "properties": [],
