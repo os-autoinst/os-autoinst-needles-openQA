@@ -12,7 +12,8 @@
       "height": 51,
       "type": "match",
       "xpos": 433,
-      "width": 156
+      "width": 156,
+      "click_point": {"xpos": -60, "ypos": 25}
     },
     {
       "type": "exclude",
