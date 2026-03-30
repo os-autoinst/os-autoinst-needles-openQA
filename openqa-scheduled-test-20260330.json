@@ -3,27 +3,29 @@
     {
       "ypos": 97,
       "height": 51,
-      "xpos": 436,
       "width": 152,
-      "type": "match"
+      "type": "match",
+      "xpos": 436,
+      "match": 80
     },
     {
-      "type": "match",
-      "width": 156,
-      "height": 51,
       "ypos": 319,
-      "xpos": 433
+      "height": 51,
+      "width": 156,
+      "type": "match",
+      "xpos": 433,
+      "match": 80
     },
     {
-      "type": "match",
-      "width": 117,
       "click_point": {
         "xpos": 58.5,
         "ypos": 12.5
       },
       "ypos": 611,
       "height": 25,
-      "xpos": 472,
+      "width": 117,
+      "type": "match",
+      "xpos": 467,
       "match": 75
     }
   ],
