@@ -1,0 +1,34 @@
+{
+  "area": [
+    {
+      "ypos": 97,
+      "height": 51,
+      "xpos": 436,
+      "width": 152,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "width": 156,
+      "height": 51,
+      "ypos": 319,
+      "xpos": 433
+    },
+    {
+      "type": "match",
+      "width": 117,
+      "click_point": {
+        "xpos": 58.5,
+        "ypos": 12.5
+      },
+      "ypos": 611,
+      "height": 25,
+      "xpos": 472,
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "openqa-scheduled-test"
+  ]
+}
