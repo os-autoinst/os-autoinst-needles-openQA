@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 77,
+      "ypos": 114,
+      "width": 74,
+      "height": 16,
+      "type": "match"
+    },
+    {
+      "xpos": 92,
+      "ypos": 31,
+      "width": 222,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "openqa-console"
+  ]
+}

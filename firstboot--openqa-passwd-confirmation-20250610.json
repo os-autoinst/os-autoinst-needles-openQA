@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 284,
+      "ypos": 236,
+      "width": 141,
+      "height": 101,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "passwd-prompt"
+  ]
+}

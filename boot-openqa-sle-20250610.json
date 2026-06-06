@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 241,
+      "ypos": 278,
+      "width": 172,
+      "height": 60,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "first-boot"
+  ]
+}

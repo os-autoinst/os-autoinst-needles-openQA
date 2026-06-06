@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 110,
+      "ypos": 251,
+      "width": 377,
+      "height": 20,
+      "type": "match"
+    },
+    {
+      "xpos": 359,
+      "ypos": 364,
+      "width": 74,
+      "height": 21,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firstboot-scc-ok"
+  ]
+}

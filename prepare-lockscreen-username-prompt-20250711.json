@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 34,
+      "xpos": 320,
+      "type": "match",
+      "width": 111,
+      "ypos": 456
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "lockscreen-username-prompt"
+  ]
+}

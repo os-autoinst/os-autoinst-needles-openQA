@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 94,
+      "ypos": 215,
+      "width": 90,
+      "height": 30,
+      "type": "match"
+    },
+    {
+      "xpos": 127,
+      "ypos": 495,
+      "width": 156,
+      "height": 57,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "boot-menu"
+  ]
+}
